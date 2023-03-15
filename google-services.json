@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "958740102429",
+    "project_id": "fir-alter-f9cfa",
+    "storage_bucket": "fir-alter-f9cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958740102429:android:5ea6523c352a92b7fbf5f4",
+        "android_client_info": {
+          "package_name": "com.vdogames.MiniGuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958740102429-62coprpfntpsvpqegbs1ct4ka4ue7179.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vdogames.MiniGuy",
+            "certificate_hash": "a17fe884bf77b48f4236c3658bf080e9dd8177c2"
+          }
+        },
+        {
+          "client_id": "958740102429-od5hhmie0bfdi74m4tgsuoangv2spsit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA88FuMe09hBY4TiFWAxn2XCi_-ZUH-2sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958740102429-ij2ann22raudjvj8mj2kj53p9bpo17h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
